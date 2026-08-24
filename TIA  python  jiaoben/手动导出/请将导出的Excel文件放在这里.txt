@@ -1,0 +1,2 @@
+# 此目录存放 TIA Portal 手动导出的变量 Excel 文件
+# 在运行 parse_exported_variables.py 前，请将 .xlsx 文件放入此目录

@@ -1,0 +1,1 @@
+e1_connector_db: LADDR,Channel,Working_T_SV,Temperature_L_SV,Temperature_H_SV,Batch_Temp_L_SV,Batch_Temp_H_SV,Temperature_HH_SV,CotrolByte,Cycle,Kp,Ti,Td,Mp,Batch_Enable,E_Stop,PID_Enable,Fan_Fault,Time_Switch_Off_SV
